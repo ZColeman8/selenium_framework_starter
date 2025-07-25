@@ -1,0 +1,19 @@
+2025-07-25 17:45:10,802 - INFO - ====== WebDriver manager ======
+2025-07-25 17:45:11,795 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-25 17:45:11,938 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-25 17:45:11,993 - INFO - There is no [mac64] chromedriver "138.0.7204.168" for browser google-chrome "138.0.7204" in cache
+2025-07-25 17:45:11,993 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-25 17:45:12,203 - INFO - WebDriver version 138.0.7204.168 selected
+2025-07-25 17:45:12,213 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/mac-x64/chromedriver-mac-x64.zip
+2025-07-25 17:45:12,214 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/138.0.7204.168/mac-x64/chromedriver-mac-x64.zip
+2025-07-25 17:45:12,367 - INFO - Driver downloading response is 200
+2025-07-25 17:45:13,080 - INFO - Get LATEST chromedriver version for google-chrome
+2025-07-25 17:45:13,326 - INFO - Driver has been saved in cache [/Users/zachcoleman/.wdm/drivers/chromedriver/mac64/138.0.7204.168]
+2025-07-25 17:45:16,224 - INFO - ✅ WebDriver started
+2025-07-25 17:45:16,231 - INFO - Starting login flow test
+2025-07-25 17:45:16,794 - INFO - Navigated to SauceDemo
+2025-07-25 17:45:16,794 - INFO - Entering username
+2025-07-25 17:45:17,226 - INFO - Entering password
+2025-07-25 17:45:17,364 - INFO - Clicking login button
+2025-07-25 17:45:17,674 - INFO - Login flow test passed
+2025-07-25 17:45:17,860 - INFO - ✅ WebDriver closed
